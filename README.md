@@ -1,4 +1,4 @@
-<p align="center">Viergi</p>
+<p align="center"><samp>Viergi</samp></p>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viergi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viergi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
